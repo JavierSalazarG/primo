@@ -1,0 +1,13 @@
+{
+  "name": "primo",
+  "version": "1.0.0",
+  "description": "decir si un numero es o no primo ",
+  "main": "index.js",
+  "repository": "git@github.com:JavierSalazarG/primo.git",
+  "author": "javi <javis9555@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+
+}
